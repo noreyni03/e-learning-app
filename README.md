@@ -25,10 +25,6 @@
 
 
 ## System Architecture 🏰
-<br/>
-☝ The StudyNotion ed-tech platform consists of three main components:  <br/>
-The front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
-
 🎨 Front-end  <br/>
 The front end of the platform is built using ReactJS, which is a popular JavaScript library for building user interfaces. ReactJS allows for the creation of dynamic and responsive user interfaces also **Loading Skeleton**, which are critical for providing an engaging learning experience to the students. The front end communicates with the back end using RESTful API calls.
 
