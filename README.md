@@ -1,5 +1,3 @@
-
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home1.png' />
 ## Tech Stack 💻🔧 
 
 ## Frontend 🎨 : 
